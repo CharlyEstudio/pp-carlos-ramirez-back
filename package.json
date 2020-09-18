@@ -1,0 +1,25 @@
+{
+  "name": "pp-carlos-ramirez-back",
+  "version": "1.0.0",
+  "description": "API para registro y consulta de usuarios",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlyEstudio/pp-carlos-ramirez-back.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Carlos Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlyEstudio/pp-carlos-ramirez-back/issues"
+  },
+  "homepage": "https://github.com/CharlyEstudio/pp-carlos-ramirez-back#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
